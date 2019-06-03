@@ -1,2 +1,2 @@
 # data_science
-Data science projects 
+Data science projects
